@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "naam": "Mens",
+    "img_src": "ranger_vrouw.png"
+  },
+  {
+    "id": 2,
+    "naam": "Dwerg",
+    "img_src": "dwerg_vrouw.png"
+  },
+  {
+    "id": 3,
+    "naam": "Elf",
+    "img_src": "vrouw_elf.png"
+  },
+  {
+    "id": 4,
+    "naam": "Hobbit",
+    "img_src": "hobbit_vrouw.png"
+  }
+
+]

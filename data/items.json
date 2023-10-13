@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "heilige graal",
+        "type": "goed_einde_voorwerp"
+    },
+    {
+        "id": 2,
+        "name": "dwerg gevechtsbijl",
+        "type": "wapen"
+    },
+    {
+        "id": 3,
+        "name": "twee hand zwaard",
+        "type": "wapen"
+    },
+    {
+        "id": 4,
+        "name": "elven boog",
+        "type": "wapen"
+    },
+    {
+        "id": 6,
+        "name": "Koningssteen",
+        "type": "goed_einde_voorwerp"
+    }
+]

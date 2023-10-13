@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "naam": "Beorn",
+    "behaal_voorwaarden": null,
+    "ontsnap_voorwaarden": null,
+    "vraag": null,
+    "locatie_id": 15,
+    "vorige_locatie_id": 14,
+    "kan_dood": false,
+    "geef_item": null
+  },
+  {
+    "id": 2,
+    "naam": "Boromir en Faramir",
+    "behaal_voorwaarden": null,
+    "ontsnap_voorwaarden": null,
+    "vraag": "Zouden wij je helpen door Moria?",
+    "locatie_id": 65,
+    "vorige_locatie_id": null,
+    "kan_dood": false,
+    "geef_item": null
+  },
+  {
+    "id": 3,
+    "naam": "Trollen",
+    "behaal_voorwaarden": ["npc.2", "karakter.4"],
+    "ontsnap_voorwaarden": ["item.2", "item.3", "item.4"],
+    "vraag": null,
+    "locatie_id": 67,
+    "vorige_locatie_id": 66,
+    "kan_dood": true,
+    "geef_item": null
+  },
+  {
+    "id": 4,
+    "naam": "Gollum",
+    "behaal_voorwaarden": ["item.2", "item.3", "item.4"],
+    "ontsnap_voorwaarden": null,
+    "vraag": null,
+    "locatie_id": 68,
+    "vorige_locatie_id": 66,
+    "kan_dood": true,
+    "geef_item": null
+  },
+  {
+    "id": 5,
+    "naam": "Orcs",
+    "behaal_voorwaarden": ["npc.2", "karakter.4"],
+    "ontsnap_voorwaarden": ["item.2", "item.3", "item.4"],
+    "vraag": null,
+    "locatie_id": 58,
+    "vorige_locatie_id": 57,
+    "kan_dood": true,
+    "geef_item": null
+  },
+  {
+    "id": 6,
+    "naam": "Aragorn en Legolas",
+    "behaal_voorwaarden": null,
+    "ontsnap_voorwaarden": null,
+    "vraag": null,
+    "locatie_id": 78,
+    "vorige_locatie_id": 77,
+    "kan_dood": false,
+    "geef_item": null
+  }
+
+]
